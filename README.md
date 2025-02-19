@@ -72,3 +72,4 @@ See [mise.jdx.dev](https://mise.jdx.dev)
 ## Contributors
 
 [![Contributors](https://contrib.rocks/image?repo=jdx/mise)](https://github.com/jdx/mise/graphs/contributors)
+This project is a demonstration of blockchain technology and smart contract integration.
